@@ -1,4 +1,5 @@
 /* Some CSS styling */
+html { overflow-y: hidden; }
 
 #sketchpadapp {
     /* Prevent nearby text being highlighted when accidentally dragging mouse outside confines of the canvas */
